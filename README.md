@@ -70,8 +70,6 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FNew%2BBraunfels%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.windspeedMiles&suffix=%20mph&label=%F0%9F%92%A8%20Wind&color=4CAF50&style=for-the-badge" alt="Wind Speed"/>
 </p>
 
-> ⚡ *These badges pull live weather data from [wttr.in](https://wttr.in/New+Braunfels,TX) every time you view this page!*
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -96,7 +94,7 @@
 
 <p align="center">
   <a href="https://github.com/JFlo21/Linetec-Resiliency-Promax">
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jflo21&repo=Linetec-Resiliency-Promax&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" alt="Linetec Resiliency Promax" />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JFlo21&repo=Linetec-Resiliency-Promax&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" alt="Linetec Resiliency Promax" />
   </a>
 </p>
 
