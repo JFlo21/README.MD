@@ -39,7 +39,7 @@
 
 <img align="right" alt="Coding Companion" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-### 🧑‍�� &nbsp;About Me
+### 🧑‍💻 &nbsp;About Me
 
 - 🔭 &nbsp;Currently working on **[Econex](https://github.com/JFlo21/team-jireh-script-frontend)**
 - 🌱 &nbsp;Currently learning **JavaScript, React & Python**
