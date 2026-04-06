@@ -132,7 +132,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/juan-flores223"><img src="https://img.shields.io/badge/-Juan%20Flores-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/flowerpower_09"><img src="https://img.shields.io/badge/-@flowerpower__09-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://fb.com/juan flores"><img src="https://img.shields.io/badge/-Juan%20Flores-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://fb.com/juan%20flores"><img src="https://img.shields.io/badge/-Juan%20Flores-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/></a>
   <a href="mailto:floresj5400@gmail.com"><img src="https://img.shields.io/badge/-floresj5400@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/></a>
 </p>
 
