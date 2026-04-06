@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊  ANIMATED WAVE HEADER                                             -->
+<!-- 🌊  ANIMATED VENOM HEADER                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Flores&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Texas%20%F0%9F%A4%A0&descSize=20&descAlignY=52" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Flores&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Texas%20%F0%9F%A4%A0&descSize=20&descAlignY=58&stroke=6AD3F7" alt="header"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ⌨️  ANIMATED TYPING SVG                                               -->
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🧑‍💻  ABOUT ME + ANIMATED CODING COMPANION                            -->
@@ -49,6 +49,8 @@
 - 📫 &nbsp;Reach me at **floresj5400@gmail.com**
 
 <br/><br/><br/><br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🌤️  LIVE WEATHER WIDGET                                               -->
@@ -70,7 +72,7 @@
 
 > ⚡ *These badges pull live weather data from [wttr.in](https://wttr.in/New+Braunfels,TX) every time you view this page!*
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🛠️  TECH STACK (Skill Icons)                                          -->
@@ -84,7 +86,7 @@
   </a>
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏗️  FEATURED PROJECTS                                                     -->
@@ -98,7 +100,7 @@
   </a>
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 📊  GITHUB STATS                                                      -->
@@ -115,7 +117,25 @@
   <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jflo21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🏙️  3D CONTRIBUTION GRAPH                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+### 🏙️ &nbsp;3D Contribution Skyline
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JFlo21/JFlo21/output/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JFlo21/JFlo21/output/profile-green-animate.svg" />
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/JFlo21/JFlo21/output/profile-night-green.svg" width="95%"/>
+  </picture>
+</p>
+
+> 🏙️ *This 3D contribution skyline is generated automatically by a GitHub Action — the taller the building, the more contributions that day!*
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 📈  CONTRIBUTION GRAPH                                                -->
@@ -127,7 +147,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jflo21&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&area_color=6AD3F7&hide_border=true" alt="Contribution Graph" width="95%"/>
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 💡  RANDOM DEV QUOTE                                                      -->
@@ -139,7 +159,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🐍  ANIMATED SNAKE CONTRIBUTION GRAPH                                 -->
@@ -157,7 +177,25 @@
 
 > 💡 *The snake animation above is generated automatically by a GitHub Action — it eats your contribution tiles!*
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🎵  SPOTIFY NOW PLAYING                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+### 🎵 &nbsp;Now Playing on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/jflo21">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jflo21&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=6AD3F7&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+  </a>
+</p>
+
+> 🎵 *Shows what I'm currently jamming to! If offline, it displays my recently played track.*
+>
+> ⚙️ *To activate: visit [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com/) and authorize with your Spotify account, then update the `uid` in the URL above with your Spotify user ID.*
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🤝  CONNECT WITH ME                                                   -->
@@ -172,7 +210,7 @@
   <a href="mailto:floresj5400@gmail.com"><img src="https://img.shields.io/badge/-floresj5400@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🌊  ANIMATED WAVE FOOTER                                              -->
