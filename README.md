@@ -48,7 +48,7 @@
 - ⚡ &nbsp;Fun fact: I turn ☕ into `<code/>`
 - 📫 &nbsp;Reach me at **floresj5400@gmail.com**
 
-<br/><br/><br/><br/>
+<br clear="all"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
