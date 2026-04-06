@@ -15,16 +15,18 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # Step 1: Generate the snake SVG from your GitHub contribution graph
       - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@FULL_LENGTH_COMMIT_SHA # v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # Step 2: Push the generated SVGs to the 'output' branch
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@b3214b84b120d6b3f4e9b6c5a0b91f4f9b7e8d6a
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
