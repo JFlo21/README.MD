@@ -57,8 +57,18 @@
 ### 🌤️ &nbsp;Live Weather — Houston, TX
 
 <p align="center">
-  <img src="https://wttr.in/Houston,TX.png?0&q&F" alt="Weather in Houston, TX" width="440"/>
+  <img src="https://img.shields.io/badge/📍-Houston,_TX-0D1117?style=for-the-badge&labelColor=6AD3F7" alt="Location"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FHouston%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.weatherDesc%5B0%5D.value&label=%E2%98%81%EF%B8%8F%20Condition&color=6AD3F7&style=for-the-badge" alt="Weather Condition"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FHouston%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.temp_F&suffix=%C2%B0F&label=%F0%9F%8C%A1%EF%B8%8F%20Temp&color=FF6B6B&style=for-the-badge" alt="Temperature"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FHouston%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.humidity&suffix=%25&label=%F0%9F%92%A7%20Humidity&color=0077B5&style=for-the-badge" alt="Humidity"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FHouston%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.windspeedMiles&suffix=%20mph&label=%F0%9F%92%A8%20Wind&color=4CAF50&style=for-the-badge" alt="Wind Speed"/>
 </p>
+
+> ⚡ *These badges pull live weather data from [wttr.in](https://wttr.in/Houston,TX) every time you view this page!*
 
 <br/>
 
