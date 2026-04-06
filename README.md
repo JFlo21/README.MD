@@ -27,7 +27,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jflo21&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=jflo21&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophies" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 ### 🧑‍💻 &nbsp;About Me
 
-- 🔭 &nbsp;Currently working on **[Econex](https://github.com/JFlo21/team-jireh-script-frontend)**
+- 🔭 &nbsp;Currently working on **[Linetec Resiliency Promax](https://github.com/JFlo21/Linetec-Resiliency-Promax)**
 - 🌱 &nbsp;Currently learning **JavaScript, React & Python**
 - 💬 &nbsp;Ask me about **React, Frontend Architecture, or any tech!**
 - 👯 &nbsp;Open to collaborating on **exciting open source projects**
@@ -54,21 +54,21 @@
 <!-- 🌤️  LIVE WEATHER WIDGET                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-### 🌤️ &nbsp;Live Weather — Houston, TX
+### 🌤️ &nbsp;Live Weather — New Braunfels, TX
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Houston,_TX-0D1117?style=for-the-badge&labelColor=6AD3F7" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍-New_Braunfels,_TX-0D1117?style=for-the-badge&labelColor=6AD3F7" alt="Location"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FHouston%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.weatherDesc%5B0%5D.value&label=%E2%98%81%EF%B8%8F%20Condition&color=6AD3F7&style=for-the-badge" alt="Weather Condition"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FNew%2BBraunfels%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.weatherDesc%5B0%5D.value&label=%E2%98%81%EF%B8%8F%20Condition&color=6AD3F7&style=for-the-badge" alt="Weather Condition"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FHouston%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.temp_F&suffix=%C2%B0F&label=%F0%9F%8C%A1%EF%B8%8F%20Temp&color=FF6B6B&style=for-the-badge" alt="Temperature"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FNew%2BBraunfels%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.temp_F&suffix=%C2%B0F&label=%F0%9F%8C%A1%EF%B8%8F%20Temp&color=FF6B6B&style=for-the-badge" alt="Temperature"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FHouston%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.humidity&suffix=%25&label=%F0%9F%92%A7%20Humidity&color=0077B5&style=for-the-badge" alt="Humidity"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FNew%2BBraunfels%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.humidity&suffix=%25&label=%F0%9F%92%A7%20Humidity&color=0077B5&style=for-the-badge" alt="Humidity"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FHouston%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.windspeedMiles&suffix=%20mph&label=%F0%9F%92%A8%20Wind&color=4CAF50&style=for-the-badge" alt="Wind Speed"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FNew%2BBraunfels%2CTX%3Fformat%3Dj1&query=%24.current_condition%5B0%5D.windspeedMiles&suffix=%20mph&label=%F0%9F%92%A8%20Wind&color=4CAF50&style=for-the-badge" alt="Wind Speed"/>
 </p>
 
-> ⚡ *These badges pull live weather data from [wttr.in](https://wttr.in/Houston,TX) every time you view this page!*
+> ⚡ *These badges pull live weather data from [wttr.in](https://wttr.in/New+Braunfels,TX) every time you view this page!*
 
 <br/>
 
@@ -86,6 +86,20 @@
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏗️  FEATURED PROJECTS                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### 🏗️ &nbsp;Featured Projects
+
+<p align="center">
+  <a href="https://github.com/JFlo21/Linetec-Resiliency-Promax">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jflo21&repo=Linetec-Resiliency-Promax&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" alt="Linetec Resiliency Promax" />
+  </a>
+</p>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 📊  GITHUB STATS                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -93,12 +107,12 @@
 ### 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jflo21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jflo21&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jflo21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=jflo21&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jflo21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jflo21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 <br/>
@@ -111,6 +125,18 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jflo21&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&area_color=6AD3F7&hide_border=true" alt="Contribution Graph" width="95%"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 💡  RANDOM DEV QUOTE                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+### 💡 &nbsp;Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 <br/>
