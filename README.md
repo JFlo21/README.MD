@@ -133,8 +133,6 @@
   </picture>
 </p>
 
-> 🏙️ *This 3D contribution skyline is generated automatically by a GitHub Action — the taller the building, the more contributions that day!*
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -190,10 +188,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wwm6l3sxzop74xym7ribd2lwrm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=b53030&interchange=true&profanity=false&mode=dark&bar_color=39a739&bar_color_cover=true">
   </a>
 </p>
-
-> 🎵 *Shows what I'm currently jamming to! If offline, it displays my recently played track.*
->
-> ⚙️ *To activate: visit [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com/) and authorize with your Spotify account, then update the `uid` in the URL above with your Spotify user ID.*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
