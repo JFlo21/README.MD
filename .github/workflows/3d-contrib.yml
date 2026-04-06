@@ -32,6 +32,6 @@ jobs:
         with:
           target_branch: output
           build_dir: profile-3d-contrib
-          keep_history: true
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
