@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@FULL_LENGTH_COMMIT_SHA # v3
         with:
           github_user_name: JFlo21
           outputs: |
