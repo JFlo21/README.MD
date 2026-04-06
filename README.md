@@ -186,8 +186,8 @@
 ### 🎵 &nbsp;Now Playing on Spotify
 
 <p align="center">
-  <a href="https://open.spotify.com/user/jflo21">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jflo21&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=6AD3F7&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wwm6l3sxzop74xym7ribd2lwrm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wwm6l3sxzop74xym7ribd2lwrm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=b53030&interchange=true&profanity=false&mode=dark&bar_color=39a739&bar_color_cover=true">
   </a>
 </p>
 
