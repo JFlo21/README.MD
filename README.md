@@ -8,7 +8,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%9B%EF%B8%8F+React+%7C+JavaScript+%7C+Python;%F0%9F%8C%B1+Always+Learning+New+Technologies;%F0%9F%9A%80+Building+The+Future+One+Line+At+A+Time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8F%A2+Software+Engineer+%40+Linetec+Services;%F0%9F%90%8D+Python+%26+TypeScript+Specialist;%F0%9F%A4%96+AI+%26+Automation+Enthusiast;%F0%9F%93%8A+Data+Analytics+%26+Smartsheet+Expert" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,14 +41,44 @@
 
 ### 🧑‍💻 &nbsp;About Me
 
-- 🔭 &nbsp;Currently working on **[Linetec Resiliency Promax](https://github.com/JFlo21/Linetec-Resiliency-Promax)**
-- 🌱 &nbsp;Currently learning **JavaScript, React & Python**
-- 💬 &nbsp;Ask me about **React, Frontend Architecture, or any tech!**
-- 👯 &nbsp;Open to collaborating on **exciting open source projects**
-- ⚡ &nbsp;Fun fact: I turn ☕ into `<code/>`
-- 📫 &nbsp;Reach me at **floresj5400@gmail.com**
+<table>
+  <tr><td>🏢</td><td><strong>Software Engineer</strong> at <a href="https://www.linetecservices.com/">Linetec Services</a> — A Centuri Company</td></tr>
+  <tr><td>🔭</td><td>Currently building <strong><a href="https://github.com/JFlo21/Linetec-Resiliency-Promax">Linetec Resiliency Promax</a></strong></td></tr>
+  <tr><td>🌱</td><td>Currently deepening expertise in <strong>React, TypeScript, Python &amp; AI/ML</strong></td></tr>
+  <tr><td>💬</td><td>Ask me about <strong>React, Frontend Architecture, Smartsheet Automation, or any tech!</strong></td></tr>
+  <tr><td>👯</td><td>Open to collaborating on <strong>exciting open source projects</strong></td></tr>
+  <tr><td>⚡</td><td>Fun fact: I turn ☕ into <code>&lt;code/&gt;</code></td></tr>
+  <tr><td>📫</td><td>Reach me at <strong>floresj5400@gmail.com</strong></td></tr>
+</table>
 
 <br clear="all"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
+
+<!-- ═════════════════════════════════════════════════════════════════ -->
+<!-- 🏢  WHERE I WORK                                                      -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
+
+### 🏢 &nbsp;Where I Work
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://linetecservices.com/wp-content/uploads/2020/01/linetec-services-logo.png" width="180" alt="Linetec Services Logo"/>
+    </td>
+    <td>
+      <h3>🔧 Software Engineer — <a href="https://www.linetecservices.com/">Linetec Services</a></h3>
+      <p><em>A <strong>Centuri</strong> Company</em></p>
+      <p>📍 New Braunfels, TX</p>
+      <p>Building enterprise-grade internal tools, automation pipelines, and data analytics platforms that power field operations across electric infrastructure, transmission, distribution &amp; storm restoration services.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Software%20Engineer-6AD3F7?style=flat-square" alt="Role"/>
+        <img src="https://img.shields.io/badge/Industry-Electric%20Infrastructure-CC0000?style=flat-square" alt="Industry"/>
+        <img src="https://img.shields.io/badge/Stack-Python%20|%20TypeScript%20|%20React%20|%20Supabase-0D1117?style=flat-square" alt="Stack"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
@@ -86,6 +116,53 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
+<!-- ═════════════════════════════════════════════════════════════════ -->
+<!-- 🎓  CERTIFICATIONS & EXPERIENCE                                       -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
+
+### 🎓 &nbsp;Certifications &amp; Experience
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/⚡-Electric%20Infrastructure-CC0000?style=for-the-badge" alt="Electric Infrastructure"/>
+    </td>
+    <td>
+      <strong>Software Engineer — Linetec Services (A Centuri Company)</strong><br/>
+      <sub>Building automation tools, data pipelines, and internal platforms for electric utility field operations</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/🐍-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </td>
+    <td>
+      <strong>Python Automation &amp; Data Analytics</strong><br/>
+      <sub>Smartsheet API integrations, PDF generation pipelines, Supabase sync engines, AI-powered auditing tools</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/⚛️-React%20|%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    </td>
+    <td>
+      <strong>Full Stack Web Development</strong><br/>
+      <sub>React, TypeScript, Next.js, Node.js — building enterprise dashboards and internal tools</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/🤖-AI%20|%20ML-FF6F00?style=for-the-badge" alt="AI/ML"/>
+    </td>
+    <td>
+      <strong>AI &amp; Machine Learning</strong><br/>
+      <sub>Claude AI integrations, intelligent data analyst agents, duplicate detection &amp; smart auditing</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏗️  FEATURED PROJECTS                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -93,8 +170,22 @@
 ### 🏗️ &nbsp;Featured Projects
 
 <p align="center">
+  <a href="https://github.com/JFlo21/Linetec-Resiliency-Promax">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JFlo21&repo=Linetec-Resiliency-Promax&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9&icon_color=6AD3F7" alt="Linetec Resiliency Promax"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/JFlo21/Generate-Weekly-PDFs-DSR-Resiliency">
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JFlo21&repo=Generate-Weekly-PDFs-DSR-Resiliency&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" alt="Generate-Weekly-PDFs-DSR-Resiliency" />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JFlo21&repo=Generate-Weekly-PDFs-DSR-Resiliency&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9&icon_color=6AD3F7" alt="Generate Weekly PDFs"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JFlo21/smartsheet-auditor">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JFlo21&repo=smartsheet-auditor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9&icon_color=6AD3F7" alt="Smartsheet Auditor"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/JFlo21/ai-data-analyst">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JFlo21&repo=ai-data-analyst&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9&icon_color=6AD3F7" alt="AI Data Analyst"/>
   </a>
 </p>
 
@@ -196,10 +287,25 @@
 ### 🤝 &nbsp;Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/juan-flores223"><img src="https://img.shields.io/badge/-Juan%20Flores-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/flowerpower_09"><img src="https://img.shields.io/badge/-@flowerpower__09-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://fb.com/juan%20flores"><img src="https://img.shields.io/badge/-Juan%20Flores-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="mailto:floresj5400@gmail.com"><img src="https://img.shields.io/badge/-floresj5400@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/juan-flores223">
+    <img src="https://img.shields.io/badge/LinkedIn-Juan%20Flores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Juan Flores"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/flowerpower_09">
+    <img src="https://img.shields.io/badge/Instagram-@flowerpower__09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram — @flowerpower_09"/>
+  </a>
+  &nbsp;
+  <a href="https://fb.com/juan%20flores">
+    <img src="https://img.shields.io/badge/Facebook-Juan%20Flores-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook — Juan Flores"/>
+  </a>
+  &nbsp;
+  <a href="mailto:floresj5400@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-floresj5400@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — floresj5400@gmail.com"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/JFlo21">
+    <img src="https://img.shields.io/badge/GitHub-JFlo21-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — JFlo21"/>
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
