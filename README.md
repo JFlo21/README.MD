@@ -48,7 +48,7 @@
   <tr><td>💬</td><td>Ask me about <strong>React, Frontend Architecture, Smartsheet Automation, or any tech!</strong></td></tr>
   <tr><td>👯</td><td>Open to collaborating on <strong>exciting open source projects</strong></td></tr>
   <tr><td>⚡</td><td>Fun fact: I turn ☕ into <code>&lt;code/&gt;</code></td></tr>
-  <tr><td>📫</td><td>Reach me at <strong>floresj5400@gmail.com</strong></td></tr>
+  <tr><td>📫</td><td>Reach me at <strong><a href="mailto:floresj5400@gmail.com">floresj5400@gmail.com</a></strong></td></tr>
 </table>
 
 <br clear="all"/>
@@ -64,7 +64,10 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://linetecservices.com/wp-content/uploads/2020/01/linetec-services-logo.png" width="180" alt="Linetec Services Logo"/>
+      <picture>
+        <source srcset="https://linetecservices.com/wp-content/uploads/2020/01/linetec-services-logo.png" type="image/png"/>
+        <img src="https://img.shields.io/badge/Linetec_Services-A_Centuri_Company-CC0000?style=for-the-badge&logoColor=white" width="180" alt="Linetec Services Logo"/>
+      </picture>
     </td>
     <td>
       <h3>🔧 Software Engineer — <a href="https://www.linetecservices.com/">Linetec Services</a></h3>
@@ -74,7 +77,7 @@
       <p>
         <img src="https://img.shields.io/badge/Role-Software%20Engineer-6AD3F7?style=flat-square" alt="Role"/>
         <img src="https://img.shields.io/badge/Industry-Electric%20Infrastructure-CC0000?style=flat-square" alt="Industry"/>
-        <img src="https://img.shields.io/badge/Stack-Python%20|%20TypeScript%20|%20React%20|%20Supabase-0D1117?style=flat-square" alt="Stack"/>
+        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20React%20%7C%20Supabase-0D1117?style=flat-square" alt="Stack"/>
       </p>
     </td>
   </tr>
@@ -125,7 +128,7 @@
 <table align="center">
   <tr>
     <td align="center" width="140">
-      <img src="https://img.shields.io/badge/⚡-Electric%20Infrastructure-CC0000?style=for-the-badge" alt="Electric Infrastructure"/>
+      <img src="https://img.shields.io/badge/%E2%9A%A1-Electric%20Infrastructure-CC0000?style=for-the-badge" alt="Electric Infrastructure"/>
     </td>
     <td>
       <strong>Software Engineer — Linetec Services (A Centuri Company)</strong><br/>
@@ -134,7 +137,7 @@
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="https://img.shields.io/badge/🐍-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/%F0%9F%90%8D-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </td>
     <td>
       <strong>Python Automation &amp; Data Analytics</strong><br/>
@@ -143,7 +146,7 @@
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="https://img.shields.io/badge/⚛️-React%20|%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     </td>
     <td>
       <strong>Full Stack Web Development</strong><br/>
@@ -152,7 +155,7 @@
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="https://img.shields.io/badge/🤖-AI%20|%20ML-FF6F00?style=for-the-badge" alt="AI/ML"/>
+      <img src="https://img.shields.io/badge/%F0%9F%A4%96-AI%20%7C%20ML-FF6F00?style=for-the-badge" alt="AI/ML"/>
     </td>
     <td>
       <strong>AI &amp; Machine Learning</strong><br/>
@@ -295,7 +298,7 @@
     <img src="https://img.shields.io/badge/Instagram-@flowerpower__09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram — @flowerpower_09"/>
   </a>
   &nbsp;
-  <a href="https://fb.com/juan%20flores">
+  <a href="https://facebook.com/juanflores">
     <img src="https://img.shields.io/badge/Facebook-Juan%20Flores-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook — Juan Flores"/>
   </a>
   &nbsp;
