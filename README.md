@@ -93,8 +93,8 @@
 ### 🏗️ &nbsp;Featured Projects
 
 <p align="center">
-  <a href="https://github.com/JFlo21/Linetec-Resiliency-Promax">
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JFlo21&repo=Linetec-Resiliency-Promax&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" alt="Linetec Resiliency Promax" />
+  <a href="https://github.com/JFlo21/Generate-Weekly-PDFs-DSR-Resiliency">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JFlo21&repo=Generate-Weekly-PDFs-DSR-Resiliency&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" alt="Generate-Weekly-PDFs-DSR-Resiliency" />
   </a>
 </p>
 
